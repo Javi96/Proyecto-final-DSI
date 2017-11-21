@@ -1,20 +1,35 @@
-En esta entrevista se ha preguntado a Victoria, una niña bastante consumidora de productos multimedia (usuaria extrema), sobre
-diferentes cuestiones acerca de la funcionalidad y objetivos que se podrían desarrollar en la aplicación:
+Nombre: VIcky(Viki)
+Edad: 12
+Sexo: mujer
+Uso multimedia: moderado alto
 
-	- Sistema: Avanzar video (2:50 - 2:55), cerrar video (2:57 - 3:00), escoger un video entre varios (3:13 - 4:14),
-	           cambiar de canales (4:35 - 5:33), pausar video (10:25 - 10:34), activar dispositivo para que detecte los gestos (10:37 - 11:56)
+Comodidad en un sistema clasico sentado frente al ordenador
+
+Uso reducido de la televisiÃ³n
+
+Se siente incomoda con la interacion entre raton y overlay de la app, pero considera util el overlay, solo que preferiria que se mejorara esa interacion
+
+Usuaria de animeFLV(pagina web pirata para anime) y netflix, uso de animeflv por motivos no razonados si no historicos y conocimiento de la interfaz
+
+Interes por el control al aplicar streaming en local
+
+Molestias al tener que moverse de su posicion para cambiar de video o realizar aciones sobre el pc, a pesar de que habitualmente no se aleje de la pantalla
 
 
-	- Actitudes del usuario: Molestia usando prolongadamente teclado y ratón para manejar videos (5:51 - 6:20), 
-				 satisfacción a la hora de reproducir contenido entre dispositivos (7:52 - 8:17), 
-				 incomodidad de mirar contenido desde un sofá o pub (1:37 - 1:50)
-					   
-
-	- Flujo de trabajo: Mirar contenido sentado (1:26 - 1:37),  mirar contenido en la cama ocasionalmente con suficiente luz (9:13 - 9:22 y 10:00 - 10:08)
 
 
-	- Objetivos: Mirar series de anime y Netflix (7:00 - 7:35)
+2:16 avance video: Simbolo de spoke (Larga vida y prosperidad) abriendo los dedos
 
+3:00 descartar video : corte tajante con mano
 
-Factoide: Cabe destacar las limitaciones en el sistema para público infantil. 
-  Dificultades a la hora de elegir interacciones avanzadas (ejemplo cambiar de canal en tv, elegir entre diversos videos) 
+3:30 como ver la interfaz: rueda horizontal y avanzas desplazando hacia direciÃ³n
+
+5:20 cambiar de foto en presentacion: chasqueo de dedos
+
+5:20 cambiar canal(hacia atras) mismo gesto dedo distinto
+
+10:30 pausar video : palmada
+
+11:25 permiso para hablar: hacer una boca con 
+
+Notar que no se le ocurria como pasar canales en la televisiÃ³n
