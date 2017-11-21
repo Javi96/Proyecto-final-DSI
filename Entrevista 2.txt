@@ -1,0 +1,20 @@
+En esta entrevista se ha preguntado a Victoria, una niña bastante consumidora de productos multimedia (usuaria extrema), sobre
+diferentes cuestiones acerca de la funcionalidad y objetivos que se podrían desarrollar en la aplicación:
+
+	- Sistema: Avanzar video (2:50 - 2:55), cerrar video (2:57 - 3:00), escoger un video entre varios (3:13 - 4:14),
+	           cambiar de canales (4:35 - 5:33), pausar video (10:25 - 10:34), activar dispositivo para que detecte los gestos (10:37 - 11:56)
+
+
+	- Actitudes del usuario: Molestia usando prolongadamente teclado y ratón para manejar videos (5:51 - 6:20), 
+				 satisfacción a la hora de reproducir contenido entre dispositivos (7:52 - 8:17), 
+				 incomodidad de mirar contenido desde un sofá o pub (1:37 - 1:50)
+					   
+
+	- Flujo de trabajo: Mirar contenido sentado (1:26 - 1:37),  mirar contenido en la cama ocasionalmente con suficiente luz (9:13 - 9:22 y 10:00 - 10:08)
+
+
+	- Objetivos: Mirar series de anime y Netflix (7:00 - 7:35)
+
+
+Factoide: Cabe destacar las limitaciones en el sistema para público infantil. 
+  Dificultades a la hora de elegir interacciones avanzadas (ejemplo cambiar de canal en tv, elegir entre diversos videos) 

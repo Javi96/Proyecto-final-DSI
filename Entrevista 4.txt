@@ -1,0 +1,41 @@
+Entrevista 4:
+Nombre: Elena
+Edad : 22
+Estudios: univ
+
+Le parece útil la propuesta
+
+Usa unas 5 horas al días para este tipo de contenido (comida-2h, cena-3h), en general en zonas con poca iluminacion
+Usa YouTube, Netflix y Yombi
+La tele no la usa pero por que no funciona, si funcionase si. Preferiria lo de los gestos, suele perder el mando
+
+Observacion del usuario
+	4:54 -- solicitar a la plaicacion inicio de conversacion: no sabe, se le ocurre una palmada pero pensaba eso por el sonido
+	Streamming:
+		3:23 -- cambiar tiempo: desplazamiento lateral con dos dedos
+		3:41 -- pausar video: señal de stop
+		3:50 -- play: gesto ok o tick con dos dedos
+	Netflix:
+		4:05 -- boton skip para series: gesto para pasar una hoja
+		4:26 -- pantalla completa: pregunta para dos manos, gesto de centro hacia fuera de la pantalla con dos manos. con una mantiene el puño cerrado y lo abre
+		4:45 -- salir de pantalla completa: lo contrario
+		piensa en cambiar el idioma de subtitulos
+	rep imagenes: suponemos pantalla completa durante presentacion
+		6:30 -- pasar fotos: gesto horizontal con una mano
+		6:38 -- ampliarla: como antes
+		6:45 -- movimiento tras desplazamiento: con dos dedos indicas hacia donde moverte
+		7:00 -- borrar foto: arrastrar hacia abajo
+		7:20 -- cerrar aplicacion: ---
+	tv:
+		8:24 -- pasar de canales en tv: como antes
+		8:35 -- pasar de 1 a 50: solicita un control con numeros. se plantea la idea de un menu con una lista: le resultaria util
+		9:25 -- subir volumen: dos dedos hacia arriba o abajo
+		9:38 -- volver al principio del capitulo en tv: como antes
+	10:08 -- se plantea el uso de musica en un sistema asi: si, la idea es la misma, mismas interacciones que antes
+
+moverse entre apps con gestos:
+	10:28 -- gesto por app o menu para desplazarte?: un menu, es mas facil que aprenderse muchos gestos
+	11:00 -- como ves ese menu?: barra horizontal con categorias, dos dedos para moverse y gesto para entrar
+	11:33 -- gesto para salir de una app y volver a entrar?: para salir al menu desplazamiento hacia arriba
+
+se plantea conexion en streamming pc-tv: lo encuentra bastante util. lo usaria ya que se tiene que levantar para cambiar el canal y ademas siempre consume este tipo de contenido tumbada

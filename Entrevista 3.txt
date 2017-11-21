@@ -1,0 +1,68 @@
+Hermano de Pedro
+
+Le parece útil y lo usaria por comodidad
+Es un usuario medio cerca de 2-2:3 hora
+Usa el ordenador normalmente en escritorio
+Demasiadas veces le ha resultado incómodo levantarse para pillar el ratón
+Ve los videos en un puf o pone los pies en el escritorio desde una silla
+Consume este contenido por la tarde-noche, en entornos oscuros pero con la luz encendida
+Ve la televisión muy poco, si acaso una vez a la semana
+Si pudiese ver el contenido del pc en la tv la usaría más
+Tiene ordenador conectado a la tele y smartv y suelen perder de vista los controles (teclado y mando)
+Suele usar youtube y animeyt
+Para ver pelis hace zapping, para viode y anime va a cosas conocidas
+
+Escenarios:
+	pedirle al sistema que quiere hablar con el: signo de boca hablando
+	estas viendo algo y quieres avanzar la reproduccion: desliza la mano hacia un lado, al opuesto lo contrario
+	pause: cirra mano
+	start: abre la mano
+	boton de skip: deslizamiento de mano hacia arriba
+	rep completa: expande dos manos / abre la mano de golpe
+	salir de pantalla completa: cierra la mano de golpe
+	modificar calidad de video: ---
+
+reproductor de imagenes: en el salon tratando de enseñarle imagenes a unos amigos:
+	pasar fotos: como el video, de izq a derecha
+	ampliar: abre la mano
+	desplazar en zoom: movimiento hacia el dedo
+	borrar: doble tick y hacia arriba
+	salir de pantalla completa: de izq arriba a derecha abajo cerrando
+
+mas usos: musica, videoconferencias
+
+musica:
+	play/stop: igual
+	pasar cancion: igual
+	avanzar cancion ---
+	saltar cancion: doble tick en la parte derecha
+	volumen: click en centro y desplazamiento
+		ve feedback para identificar el gesto
+
+salir desde cualquier app hacia el menu: mano abierta que se cierra
+entrar a una app: click sobre el icono
+
+representacion de informacion: 
+	simple y sin confusion entre gestos
+	para personas mayores debe ser grande
+	dos o tres columnas con listas
+
+	en musica
+		una col para tu musica
+		otra para musica nueva
+
+
+buscador:
+	plantea uso de coockies con info preestablecida
+	abajo para escribir, pero en un plano secundario
+
+	ideas planteadas:
+		escritura en el aire: complicado y poco practico
+		click en una letra y arrastras para seguir escribiendo: 
+		menu de busqueda con un circulo con letras, navegas por grupos hasta llegar a la letra:
+		no le gusta ninguno
+
+
+
+
+

@@ -1,0 +1,11 @@
+Principales aplicaciones gestoras de contenido:
+
+Netflix, HBO, Movistar TV, Vodafone TV, iTunes, PSStore, Microsoft Store, Google Play, etc.
+Disponen de múltiples interfaces para los distintos dispositivos compatibles.
+- Ordenador: basada en el uso del ratón. Complementariamente se usa el teclado de cara a usar el sistema de búsqueda. 
+- Móvil: basada en el uso de los dedos. La interfaz intenta ser muy sencilla dado el reducido tamaño de la interfaz. 
+- Tablet: también basada en el uso de los dedos. En este caso la interfaz está más a medio camino entre las 2 anteriores, dado el mayor tamaño de pantalla respecto al móvil.
+- Consolas: basada en el uso del mando. La interfaz es similar al del ordenador debido al gran tamaño de las televisiones, pero con una interfaz simplificada debido a las limitaciones de control con un mando. Sería equivalente a usar el ordenador sin ratón, sólo con teclado.
+- SmartTVs: en este caso hay más variedad de interfaces/controles. En este caso suele haber 2 opciones: control con su propio mando o usando una app en el móvil. En el caso del mando es similar a las consolas y en el caso del móvil este suele adaptar los botones de un mando y combinarlos con la interfaz de las aplicaciones de móvil.
+
+La única de todas ellas que admite control gestual es la consola Xbox mediante el uso de un Kinect.
