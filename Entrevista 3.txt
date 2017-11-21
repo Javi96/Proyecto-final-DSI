@@ -1,4 +1,6 @@
-Hermano de Pedro
+Nombre: Alejandro Honorato
+Edad: 18
+Genero: Masculino
 
 Le parece útil y lo usaria por comodidad
 Es un usuario medio cerca de 2-2:3 hora
