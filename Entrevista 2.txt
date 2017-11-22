@@ -3,33 +3,35 @@ Edad: 12
 Sexo: mujer
 Uso multimedia: moderado alto
 
-Comodidad en un sistema clasico sentado frente al ordenador
+Comodidad en un sistema clásico sentado frente al ordenador
 
 Uso reducido de la televisión
 
-Se siente incomoda con la interacion entre raton y overlay de la app, pero considera util el overlay, solo que preferiria que se mejorara esa interacion
+Se siente incómoda con la interacción entre ratón y overlay de la app, pero considera útil el overlay, solo que preferiría que se mejorara esa interacción
 
-Usuaria de animeFLV(pagina web pirata para anime) y netflix, uso de animeflv por motivos no razonados si no historicos y conocimiento de la interfaz
+Usuaria de animeFLV(pagina web pirata para anime) y netflix, uso de animeflv por motivos no razonados si no históricos y conocimiento de la interfaz
 
-Interes por el control al aplicar streaming en local
+Interés por el control al aplicar streaming en local
 
-Molestias al tener que moverse de su posicion para cambiar de video o realizar aciones sobre el pc, a pesar de que habitualmente no se aleje de la pantalla
+Acepta la sincronización entre TV y PC para reproducir contenido
+
+Molestias al tener que moverse de su posición para cambiar de video o realizar acciones sobre el pc, a pesar de que habitualmente no se aleje de la pantalla
 
 
-
-
-2:16 avance video: Simbolo de spoke (Larga vida y prosperidad) abriendo los dedos
+2:16 avance video: Símbolo de spoke (Larga vida y prosperidad) abriendo los dedos
 
 3:00 descartar video : corte tajante con mano
 
-3:30 como ver la interfaz: rueda horizontal y avanzas desplazando hacia direción
+3:30 como ver la interfaz: rueda horizontal y avanzas desplazando hacia dirección
 
 5:20 cambiar de foto en presentacion: chasqueo de dedos
 
-5:20 cambiar canal(hacia atras) mismo gesto dedo distinto
+5:20 cambiar canal(hacia atrás) mismo gesto dedo distinto
 
 10:30 pausar video : palmada
 
-11:25 permiso para hablar: hacer una boca con 
+11:25 permiso para hablar: hacer una boca con la mano
 
-Notar que no se le ocurria como pasar canales en la televisión
+Detalles a destacar ó factoides: Notar que no se le ocurría cómo pasar canales en la televisión
+                                 Posibles adaptaciones gestuales para los usuarios infantiles
+                                 Importante el uso de luz a la hora de usar la app (En horario nocturno implementar foco luminoso)
