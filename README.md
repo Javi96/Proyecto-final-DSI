@@ -3,3 +3,4 @@ Repositorio con el proyecto final desarrollado en la asignatura Desarrollo de Si
 
 ## Autores
 * **Javier Cortés Tejada** - [Javi96](https://github.com/Javi96)
+* **Pedro David González Vázquez** - [Permuta](https://github.com/pedagova)
